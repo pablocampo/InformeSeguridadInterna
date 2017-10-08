@@ -20,20 +20,20 @@ public class InformeSeguridadInterna
 
     /*REDSYS PRE*/
     //private static final String CONN_USER = "Administrador";
-    //private static final String CONN_PASSWD ="c4N2zJoF8W";
+    //private static final String CONN_PASSWD ="";
     //private static final String CONN_IP ="10.5.128.244:636";
     //private static final String CONN_BASEDN = "dc=gid-d,dc=redsys,dc=es";
     
     /*REDSYS PRO VPN*/
     private static final String CONN_USER = "Administrador";
-    private static final String CONN_PASSWD ="0IrcpA_NVH";
+    private static final String CONN_PASSWD ="";
     private static final String CONN_IP ="10.5.129.54:636";
     private static final String CONN_BASEDN = "dc=gid,dc=redsys,dc=es";
     
 
     /*REDSYS PRO RED INTERNA*/
     //private static final String CONN_USER = "Administrador";
-    //private static final String CONN_PASSWD ="0IrcpA_NVH";
+    //private static final String CONN_PASSWD ="";
     //private static final String CONN_IP ="10.129.16.10:636";
     //private static final String CONN_BASEDN = "dc=gid,dc=redsys,dc=es";
     
